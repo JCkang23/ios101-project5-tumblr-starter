@@ -1,8 +1,8 @@
-# Project 5 - *ios101-project5-tumblr*
+# Project 5 - *ios101-project5-Tumblr-starter*
 
 Submitted by: **Josue Cikanga**
 
-**ios101-project5-tumblr** is an app that displays images in a rows - each image with a short description (story).
+**ios101-project5-Tumblr-starter** is an app that displays images in rows - each image with a short description (story).
 
 Time spent: **14** hours spent in total
 
@@ -12,7 +12,6 @@ The following **required** functionality is completed:
 
 - [X] App has a configured table view and table view call
 - [X] App populates the table view with data fetched from an API
-
 
 The following **optional** features are implemented:
 
